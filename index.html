@@ -1,7 +1,19 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Group 14 Final Project</title>
 		<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<script>
+			d3.csv("employment.csv", 
+				function(d) {
+					return {
+				  		degree: d.Degree, // convert "Year" column to Date
+				  		major: d.Major,
+				  		employer: d.Employer,
+						location: d.location // convert "Length" column to number
+				  	};
+				});
+		</script>
 	</head>
 
 	<body>
