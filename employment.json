@@ -1,0 +1,430 @@
+{
+  "name": "College of Engineering",
+  "children": [
+    {
+      "name": "Aeronautics & Astronautics",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Cascade Aviation", "Location": "WA"},
+            {"name": "Lockheed Martin", "Location": "KY"},
+            {"name": "Millennium Space Systems, Inc.","Location": "CA"},
+            {"name": "Spaceflight, Inc.", "Location": "WA"},
+            {"name": "Stark Aerospace","Location": "WA"},
+            {"name": "U.S. Air Force", "Location": "TX"},
+            {"name": "United Technologies Aerospace System","Location": "CA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Andrews Space, Inc.", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "International Council on Clean Transportation", "Location": "CA"},
+            {"name": "Scaled Composites", "Location": "CA"},
+            {"name": "Stirling Dynamics Inc.", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bioengineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Applied Precision, Inc", "Location": "WA"},
+            {"name": "Dendreon", "Location": "WA"},
+            {"name": "St Jude medical", "Location": "AZ"},
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "Oregon Health & Science University", "Location": "OR"},
+            {"name": "PATH", "Location": "WA"},
+            {"name": "Swift Biosciences, Inc.", "Location": "MI"},
+            {"name": "Toshiba Medical Research Institute", "Location": "IL"},
+            {"name": "U.S. Food & Drug Administration", "Location": "MD"},
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Simulab Corporation", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bioresource Science & Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Cosmo Specialty Fibers", "Location": "WA"},
+            {"name": "Georgia-Pacific/Energy Trust of Oregon", "Location": "WA"},
+            {"name": "Schlumberger", "Location": "TX"},
+            {"name": "Sonoco", "Location": "WI"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Ashland Chemical Co.", "Location": "TN"},
+            {"name": "Boise inc", "Location": "WA"},
+            {"name": "Dow Chemical", "Location": "MI"},
+            {"name": "EMD Millipore", "Location": "MA"},
+            {"name": "Fred Hutchinson Cancer Research Center", "Location": "WA"},
+            {"name": "GE Water & Process Technologies", "Location": "WA"},
+            {"name": "Novinium, Inc.", "Location": "WA"},
+            {"name": "Pyrotek, Inc.", "Location": "WA"},
+            {"name": "Silicon Designs", "Location": "WA"},
+            {"name": "Thermo Fisher Scientific", "Location": "UT"},
+            {"name": "Yokogawa Corporation of America", "Location": "TX"},
+            {"name": "Yokogawa Corporation of America", "Location": "TX"},
+            {"name": "Zodiac Aerospace", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Civil & Environmental Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "BergerABAM", "Location": "WA"},
+            {"name": "CLE Engineering, Inc", "Location": "WA"},
+            {"name": "DCI Engineers", "Location": "WA"},
+            {"name": "Federal Aviation Administration", "Location": "WA"},
+            {"name": "Harriott Valentine Engineers", "Location": "WA"},
+            {"name": "King County Department of Natural Resources & Parks", "Location": "WA"},
+            {"name": "Lakeside Industries, Inc.", "Location": "WA"},
+            {"name": "Pacific Engineering & Design", "Location": "WA"},
+            {"name": "Pacific Northwest National Laboratory", "Location": "WA"},
+            {"name": "Port of Seattle", "Location": "WA"},
+            {"name": "Systems Consulting, LLC", "Location": "WA"},
+            {"name": "University of Washington", "Location": "WA"},
+            {"name": "WA State Department of Transportation", "Location": "WA"},
+            {"name": "WHPacific", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "NOAA", "Location": "CO"},
+            {"name": "Norwegian University of Science & Technology", "Location": "Norway"},
+            {"name": "University of California, Santa Barbara", "Location": "CA"},
+            {"name": "World Bank", "Location": "China"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Aisino Corporation Inc", "Location": "China"},
+            {"name": "CalTrans", "Location": "CA"},
+            {"name": "CH2M Hill", "Location": "WA"},
+            {"name": "CHK America", "Location": "CA"},
+            {"name": "Geotechnical Resources Inc.", "Location": "OR"},
+            {"name": "Jacobs Engineering Group Inc.", "Location": "WA"},
+            {"name": "Kleinfelder", "Location": "WA"},
+            {"name": "L.A. Fuess Partners", "Location": "MA"},
+            {"name": "Transpgroup", "Location": "WA"},
+            {"name": "U.S. Environmental Protection Agency", "Location": "WA"},
+            {"name": "Wiss, Janney, Elstner", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "ComputeNext", "Location": "WA"},
+            {"name": "EMC - Isilon Storage Division", "Location": "WA"},
+            {"name": "Factset Research Systems", "Location": "CA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "LinkedIn", "Location": "CA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "NetApp", "Location": "CA"},
+            {"name": "Tableau Software", "Location": "WA"},
+            {"name": "WhitePages", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Asurion", "Location": "CA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Cirrus10", "Location": "WA"},
+            {"name": "Clustrix", "Location": "WA"},
+            {"name": "Facebook", "Location": "CA"},
+            {"name": "Facebook", "Location": "WA"},
+            {"name": "Facebook", "Location": "WA"},
+            {"name": "Google", "Location": "NY"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Intentional Software", "Location": "WA"},
+            {"name": "Lucidoc", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Philips Healthcare", "Location": "WA"},
+            {"name": "Redfin", "Location": "WA"},
+            {"name": "Salesforce.com", "Location": "WA"},
+            {"name": "Ubiquity Publishing", "Location": "England"},
+            {"name": "Yapta, Inc", "Location": "WA"},
+            {"name": "Yodle", "Location": "NY"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "eScience Institute", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Amazon", "Location": "WA"},
+            {"name": "Facebook", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Google", "Location": "WA"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "Paperless Business Systems", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Aerojet", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Cequint, Inc.", "Location": "WA"},
+            {"name": "Electroimpact", "Location": "WA"},
+            {"name": "Fluke Networks", "Location": "WA"},
+            {"name": "Hewlett-Packard", "Location": "WA"},
+            {"name": "Intel", "Location": "OR"},
+            {"name": "Intel", "Location": "WA"},
+            {"name": "Jawbone", "Location": "WA"},
+            {"name": "MAQ Software", "Location": "WA"},
+            {"name": "Philips Healthcare", "Location": "WA"},
+            {"name": "Seattle City Light", "Location": "WA"},
+            {"name": "Seattle City Light", "Location": "WA"},
+            {"name": "T-Mobile", "Location": "WA"},
+            {"name": "T-Mobile", "Location": "WA"},
+            {"name": "T-Mobile", "Location": "WA"},
+            {"name": "T-Mobile", "Location": "WA"},
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Alstom grid", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Cypress Semiconductor", "Location": "WA"},
+            {"name": "Sandia National Laboratories", "Location": "NM"},
+            {"name": "Synapse Product Development", "Location": "CA"},
+            {"name": "U.S. Navy", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human Centered Design & Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Four Seasons Hotel", "Location": "WA"},
+            {"name": "Hive6", "Location": "WA"},
+            {"name": "Microsoft", "Location": "NC"},
+            {"name": "Microsoft", "Location": "WA"},
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "University of New Mexico", "Location": "NM"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "ADGi", "Location": "WA"},
+            {"name": "Amazon", "Location": "CA"},
+            {"name": "Athenahealth", "Location": "MA"},
+            {"name": "Avanade", "Location": "WA"},
+            {"name": "Avanade", "Location": "WA"},
+            {"name": "Blink Interactive", "Location": "WA"},
+            {"name": "Ciber", "Location": "WA"},
+            {"name": "Deloitte Consulting", "Location": "GA"},
+            {"name": "IBM", "Location": "CA"},
+            {"name": "University of Washington", "Location": "WA"},
+            {"name": "University of Washington", "Location": "WA"},
+            {"name": "University of Washington (Foster School of Business)", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Industrial & Systems Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "creativeLIVE", "Location": "WA"},
+            {"name": "Exlar Corporation", "Location": "MN"},
+            {"name": "Physio-Control", "Location": "WA"},
+            {"name": "United Parcel Services", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Amazon", "Location": "PA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Materials Science & Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "PACCAR", "Location": "WA"},
+            {"name": "University of Washington (Applied Physics Laboratory)", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "Maxim Integrated", "Location": "CA"},
+            {"name": "NIST", "Location": "MD"},
+            {"name": "University of Washington", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Boeing", "Location": "WA"}
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mechanical Engineering",
+      "children": [
+        {
+          "name": "Bachelors",
+          "children": [
+            {"name": "3M", "Location": "IN"},
+            {"name": "ATS Automation", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "Boeing", "Location": "WA"},
+            {"name": "BP", "Location": "TX"},
+            {"name": "CH2M Hill", "Location": "CO"},
+            {"name": "Electroimpact", "Location": "WA"},
+            {"name": "Engineering Economics, Inc.", "Location": "WA"},
+            {"name": "EOSPACE", "Location": "WA"},
+            {"name": "Georgia Pacific", "Location": "OR"},
+            {"name": "Goodyear Tire & Rubber Company", "Location": "TX"},
+            {"name": "Intel", "Location": "WA"},
+            {"name": "Intel", "Location": "WA"},
+            {"name": "Schlumberger", "Location": "LA"},
+            {"name": "Synapse Product Engineering", "Location": "WA"},
+            {"name": "T.E. Inc.", "Location": "WA"},
+            {"name": "Triumph Aerospace Systems", "Location": "WA"}
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "children": [
+            {"name": "Texas A&M University", "Location": "TX"}
+          ]
+        },
+        {
+          "name": "Masters",
+          "children": [
+            {"name": "Alaska Ship & Drydock", "Location": "AK"},
+            {"name": "Endogastric Solutions", "Location": "WA"},
+            {"name": "NACCO Materials Handling Group", "Location": "OR"},
+            {"name": "Transparent Energy Systems Pvt. Ltd", "Location": "India"},
+            {"name": "Whooshh Innovations", "Location": "WA"}
+          ]
+        }
+      ]
+    }
+  ]
+}
